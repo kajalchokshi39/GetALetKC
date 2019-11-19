@@ -1,4 +1,4 @@
-Package: GetALetPack
+Package: alphabet
 Type: Package
 Title: Return a letter of the alphabet
 Version: 1.0
