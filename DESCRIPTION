@@ -1,9 +1,0 @@
-Package: alphabet
-Type: Package
-Title: Return a letter of the alphabet
-Version: 1.0
-Date: 2019-11-19
-Author: Kajal Chokshi
-Maintainer: kajalchokshi39@gmail.com
-Description: This package will give you a letter of the alphabet randomly
-License: IDK
