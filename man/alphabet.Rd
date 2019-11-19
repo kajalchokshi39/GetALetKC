@@ -1,11 +1,11 @@
 \name{alphabet}
 \alias{alphabet}
-%- Also NEED an '\alias' for EACH other topic documented here.
+some alias
 \title{
-%%  ~~function to do ... ~~
+alphabet function
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+return a letter
 }
 \usage{
 alphabet(i)
